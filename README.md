@@ -3,7 +3,7 @@
 <ul>
   <li>🖥️I have been teaching myself code for 2 months.
   <li>💬I'm creating projects to solidify my knowledge within the Software Development Sector.
-  <li>🌱Markups/Languages/Frameworks I know: HTML5, CSS3/SASS, JavaScript, Jquery, Bootstrap, Node.JS, Python
+  <li>🌱Teaching myself Python, but have had experience in: HTML, CSS/SCSS, JavaScript, React, NPM etc.
   <li>🔭I am currently studying a BSc (Honours) in Computing and IT (Software). This is because my aspiration is to be a ML Engineer/Software Engineer.
 <ul>
 
