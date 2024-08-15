@@ -3,7 +3,24 @@
 <ul>
   <li>🖥️I have been teaching myself code since Dec 2023, had a break from Mar to Jul, as you can see from the heatmap 😂
   <li>💬I'm creating projects to solidify my knowledge within the Software Development Sector.
-  <li>🌱Teaching myself Python, but have had experience in: HTML, CSS/SCSS, JavaScript, React, NPM etc.
+  <li>🌱Tech Stack:
+    <ol>
+      <li>
+        Python
+      </li>
+      <li>
+        JavaScript
+      </li>
+      <li>
+        HTML/CSS/SCSS
+      </li>
+      <li>
+        Git/Github
+      </li>
+      <li>
+        Bits of: C#, NPM, React, TailwindCss
+      </li>
+    </ol>
   <li>🔭I am currently studying a BSc (Honours) in Computing and IT (Software). This is because my aspiration is to be a ML Engineer/Software Engineer.
 <ul>
 
