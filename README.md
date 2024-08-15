@@ -21,7 +21,10 @@
         Bits of: C#, NPM, React, TailwindCss
       </li>
     </ol>
-  <li>🔭I am currently studying a BSc (Honours) in Computing and IT (Software). This is because my aspiration is to be a ML Engineer/Software Engineer.
+  <li>🔭I am currently studying a Masters of Physics (Astrophysics and Space Science) at Open University⚡
+  <li>
+    📫 How to reach me: Add my discord - TPlatts#1368, Email me at - tomplattsbse@hotmail.com 😄
+  </li>
 <ul>
 
 <!--
