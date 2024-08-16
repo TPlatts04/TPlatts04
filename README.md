@@ -1,7 +1,7 @@
 ### Hi, I'm Tom Platts
 
 <ul>
-  <li>🖥️I have been teaching myself code since Dec 2023, had a break from Mar to Jul, as you can see from the heatmap 😂
+  <li>🖥️I have been teaching myself code since Nov 2023, had a break from Mar to Jul, as you can see from the heatmap 😂
   <li>💬I'm creating projects to solidify my knowledge within Programming as a whole!
   <li>🌱Tech Stack:
     <ol>
