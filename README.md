@@ -25,7 +25,7 @@
   <li>
     📫 How to reach me: Add my discord - TPlatts#1368, Email me at - tomplattsbse@hotmail.com 😄
   </li>
-  <p>I am currently teaching myself the final few touches of the Python language and will be learning PostgreSQL afterwards.</p>
+  <p>I am currently teaching myself Flask, will move onto Django afterwards.</p>
 <ul>
 
 <!--
