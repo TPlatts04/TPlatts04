@@ -21,7 +21,7 @@
         Bits of: C#, NPM, React, TailwindCss
       </li>
     </ol>
-  <li>🔭I am currently studying a Masters of Physics (Astrophysics and Space Science) at Open University⚡
+  <li>🔭I am currently studying a BSc Honors Computing and IT (Software) at Open University⚡
   <li>
     📫 How to reach me: Add my discord - TPlatts#1368, Email me at - tomplattsbse@hotmail.com 😄
   </li>
