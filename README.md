@@ -6,7 +6,7 @@
   <li>🌱Tech Stack:
     <ol>
       <li>
-        Python
+        Python (Flask, Flask-SQLAlchemy)
       </li>
       <li>
         JavaScript
