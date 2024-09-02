@@ -1,5 +1,8 @@
 ### Hi, I'm Tom Platts
 
+## Current Project W.I.P
+I am working on a Personal Finance Manager with User Auth, Databases (Flask-SQLAlchemy) and Generating Reports with JS.
+
 <ul>
   <li>🖥️I have been teaching myself code since Nov 2023, had a break from Mar to Jul, as you can see from the heatmap 😂
   <li>💬I'm creating projects to solidify my knowledge within Programming as a whole!
