@@ -29,6 +29,7 @@ I am working on a Personal Finance Manager with User Auth, Databases (Flask-SQLA
     📫 How to reach me: Add my discord - TPlatts#1368, Email me at - tomplattsbse@hotmail.com 😄
   </li>
   <p>I am currently teaching myself Flask, will move onto Django afterwards.</p>
+  <p>I am willing to learn anything the company wants to teach me!</p>
 <ul>
 
 <!--
